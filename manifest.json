@@ -1,8 +1,10 @@
 {
     "manifest_version": 2,
-    "name": "Moodle Centros Tweaker",
+    "name": "__MSG_extensionName__",
+    "description": "__MSG_extensionDescription__",
+    "default_locale": "es",
     "version": "0.1",
-    "description": "Makes some adjustments to Moodle Centros platform to improve the user experience",
+    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
     "icons": {
         "48": "icons/icons8-setting-tweak-48.png",
         "96": "icons/icons8-setting-tweak-96.png"

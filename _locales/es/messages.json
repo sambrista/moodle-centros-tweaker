@@ -1,0 +1,10 @@
+{
+    "extensionName": {
+        "message": "Retocador de Moodle Centros",
+        "description": "Nombre de la extensión."
+    },
+    "extensionDescription": {
+        "message": "Hace algunos ajustes a la plataforma Moodle Centros para mejorar la experiencia del usuario. Actualmente, solo maximiza la rúbrica al calificar una tarea, pero se agregarán más funciones en el futuro.",
+        "description": "Descripción de la extensión."
+    }
+}

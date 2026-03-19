@@ -1,0 +1,10 @@
+{
+    "extensionName": {
+        "message": "Moodle Centros Tweaker",
+        "description": "Name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Makes some adjustments to Moodle Centros platform to improve the user experience. Currently, it only maximizes the rubric when grading an assignment, but more features will be added in the future.",
+        "description": "Description of the extension."
+    }
+}
