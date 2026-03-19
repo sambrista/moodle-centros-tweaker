@@ -1,0 +1,1 @@
+document.getElementsByClassName("fullwidth")[0].children[0].style.maxWidth = "100%";
